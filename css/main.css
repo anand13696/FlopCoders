@@ -3,3 +3,7 @@
 	font-family: Arial, Helvetica, sans-serif;
 	margin: 0ex
 }
+body {
+	height: 100%;
+	width: 100%;
+}
